@@ -61,7 +61,3 @@ Final output example:
 
 Each row represents urban context characteristics surrounding a traffic monitoring station.
 
-## Author
-
-Ziji Yuan  
-UNSW Sydney
