@@ -1,0 +1,6 @@
+pandas
+geopandas
+pyogrio
+numpy
+matplotlib
+osmnx

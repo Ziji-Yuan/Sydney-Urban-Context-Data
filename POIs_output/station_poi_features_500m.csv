@@ -1,0 +1,296 @@
+station_key,station_id,name,road_name,intersection,lga,suburb,post_code,wgs84_latitude,wgs84_longitude,poi_food_count_500m,poi_education_count_500m,poi_healthcare_count_500m,poi_public_transport_count_500m,poi_leisure_count_500m,poi_tourism_count_500m,poi_shop_count_500m,poi_data_missing
+57257,66249,Fairfield Street,Fairfield Street,Cockburn Crescent,Fairfield,Fairfield East,2165.0,-33.869324,150.963486,2,2,0,9,5,0,1,False
+57052,50250,Hart Drive,Hart Drive,Mahony Road,Parramatta,Constitution Hill,2145.0,-33.797592,150.975433,0,1,0,9,5,0,0,False
+56738,22001,Military Road,Military Road,Melrose Street,Mosman,Mosman,2088.0,-33.825577,151.233261,11,2,5,15,42,0,14,False
+55393,02384,Cleveland Street,Cleveland Street,Woodburn Street,Sydney,Redfern,2016.0,-33.888908,151.200851,126,10,8,36,87,53,116,False
+99990011,7104-PR,Broughton Street,Broughton Street,Moore Street,Campbelltown,Campbelltown,2560.0,-34.066612,150.81958,0,0,0,0,0,0,0,True
+57110,53029,Mona Vale Road,Mona Vale Road,Garrick Road,Ku-Ring-Gai,St Ives,2075.0,-33.725666,151.168045,0,5,0,11,178,0,0,False
+55383,02377,George Street,George Street,Little Regent Street,Sydney,Ultimo,2007.0,-33.883865,151.202652,180,12,9,111,84,98,132,False
+15252030,7115,Canterbury Road,Canterbury Road,King Georges Road,Canterbury,Wiley Park,2195.0,-33.929409,151.072479,1,0,0,12,11,0,4,False
+57268,68025,Great Western Highway,Great Western Highway,Liverpool-Parramatta Transitway,Holroyd,South Wentworthville,2145.0,-33.816696,150.976623,5,1,1,23,9,0,13,False
+56602,100001,Cambridge Street,Cambridge Street,Carre Avenue,Fairfield,Canley Heights,2166.0,-33.878181,150.924942,0,0,0,1,1,0,0,False
+15286014,7168,Great Western Highway,Great Western Highway,Reservoir Road,Blacktown,Blacktown,2148.0,-33.798195,150.897125,0,0,0,4,9,0,3,False
+57104,53003,Pacific Highway,Pacific Highway,Blytheswood Avenue,Ku-Ring-Gai,Warrawee,2074.0,-33.729225,151.122208,0,1,0,8,50,0,0,False
+56959,43032,Henry Lawson Drive,Henry Lawson Drive,Wainwright Avenue,Bankstown,Padstow,2211.0,-33.963131,151.04187,0,0,0,6,5,0,0,False
+57160,57025,Forest Way,Forest Way,Neridah Avenue,Warringah,Belrose,2085.0,-33.725773,151.219788,0,2,0,18,24,0,1,False
+55385,02379,Western Distributor,Western Distributor,Allen Street,Sydney,Pyrmont,2009.0,-33.8741,151.19487,37,3,5,34,43,21,64,False
+57012,49002,Parramatta Road,Parramatta Road,Harbord Street,Auburn,Auburn,2144.0,-33.835732,151.023056,3,0,0,5,0,1,11,False
+57453,74453,Epping Road,Epping Road,Bridge Street,Parramatta,Epping,2121.0,-33.773907,151.082626,27,4,12,35,57,1,29,False
+57358,7159RLC,Cambridge Street,Cambridge Street,Joseph Street,Fairfield,Canley Heights,2166.0,-33.888176,150.922974,3,1,0,11,7,1,2,False
+15648001,7179,Jersey Road,Jersey Road,Old Prospect Road,Holroyd,South Wentworthville,2145.0,-33.817272,150.962784,4,1,0,14,10,2,3,False
+57503,85019,Camden Valley Way,Camden Valley Way,Heath Road,Camden,Leppington,2179.0,-33.976528,150.808868,0,0,0,0,0,0,0,True
+15934015,T0485,Great Western Highway,Great Western Highway Hvcs,Carawatha Road,Blue Mountains,Blackheath,2785.0,-33.616264,150.273102,0,0,0,0,0,0,0,True
+55411,02396,King Street,King Street,Newman Street,Marrickville,Newtown,2042.0,-33.898334,151.178238,92,4,9,17,24,15,77,False
+57423,74077,Junction Road,Junction Road,Edgeworth David Avenue,Hornsby,Wahroonga,2076.0,-33.708252,151.116745,0,1,0,19,75,0,0,False
+57234,66021,Woodville Road,Woodville Road,Allowrie Road,Fairfield,Villawood,2163.0,-33.888622,150.97377,0,1,0,17,3,0,0,False
+57439,74228,New Line Road,New Line Road,Tennyson Close,Hornsby,Cherrybrook,2126.0,-33.723019,151.036606,0,1,0,16,133,0,0,False
+57094,51233,Epping Road,Epping Road,Yarwood Street,Ryde,Marsfield,2122.0,-33.774441,151.103638,0,1,0,10,16,0,1,False
+55394,02385,Regent Street,Regent Street,James Street,Sydney,Redfern,2016.0,-33.889572,151.201599,100,7,6,41,69,42,90,False
+56715,20067,City-West Link Road,City-West Link Road,Boomerang Street,Ashfield,Haberfield,2045.0,-33.869892,151.145019,1,0,0,10,10,1,0,False
+56744,23001,Princes Highway,Princes Highway,Brodie Spark Drive,Rockdale,Wolli Creek,2205.0,-33.929401,151.156433,19,0,3,21,96,10,6,False
+57041,50183,Briens Road,Briens Road,Kleins Road,Parramatta,Northmead,2152.0,-33.793552,150.993912,6,1,1,10,6,0,15,False
+57155,57011,Mona Vale Road,Mona Vale Road,Forest Way,Warringah,Belrose,2085.0,-33.701229,151.211594,7,1,1,7,19,1,31,False
+57097,52014,Lane Cove Road,Lane Cove Road,Ryde Road,Ku-Ring-Gai,West Pymble,2073.0,-33.775299,151.135406,0,0,0,4,10,15,1,False
+57108,53018,Pacific Highway,Pacific Highway,Telegraph Road,Ku-Ring-Gai,Pymble,2073.0,-33.742207,151.139358,1,2,3,13,66,0,4,False
+57005,47024,Parramatta Road,Parramatta Road,Junction Street,Auburn,Auburn,2144.0,-33.83889,151.029022,4,0,0,15,2,0,18,False
+15252028,7112,Silverwater Road,Silverwater Road,Western Motorway,Auburn,Auburn,2144.0,-33.843338,151.043411,4,2,0,13,5,0,7,False
+57264,68020,Church Street,Church Street,Meehan Street,Holroyd,Granville,2142.0,-33.826282,151.004715,2,2,1,12,9,0,26,False
+56658,16088,Foreshore Road,Foreshore Road,Fremlins Lane,Botany Bay,Botany,2019.0,-33.958763,151.203247,1,0,0,5,16,1,0,False
+57367,72026,Old Northern Road,Old Northern Road,Ambleside Drive,The Hills,Castle Hill,2154.0,-33.744923,150.996368,1,5,2,19,70,0,0,False
+55322,02038,Cleveland Street,Cleveland Street,Pitt Street,Sydney,Surry Hills,2010.0,-33.889385,151.203934,90,8,4,18,62,35,69,False
+57359,7161RLC,Pennant Hills Road,Pennant Hills Road,Beecroft Road,Hornsby,Pennant Hills,2120.0,-33.740406,151.060989,0,1,0,11,93,0,0,False
+55425,02414,Pyrmont Street,Pyrmont Street,Murray Street,Sydney,Pyrmont,2009.0,-33.872505,151.196762,66,3,7,41,50,35,49,False
+56856,32012,Burns Bay Road,Burns Bay Road,Martin Street,Lane Cove,Linley Point,2066.0,-33.829678,151.146133,4,1,2,8,12,5,4,False
+57186,62001,Hume Highway,Hume Highway,Kendall Drive,Liverpool,Casula,2170.0,-33.956684,150.891098,7,1,0,17,8,2,9,False
+57342,71082,Carlisle Avenue,Carlisle Avenue,Beames Avenue,Blacktown,Mount Druitt,2770.0,-33.769043,150.816498,0,0,0,4,0,0,0,False
+58690,984FDSC,The Boulevarde,The Boulevarde,Strathfield Avenue,Strathfield,Strathfield,2135.0,-33.877594,151.093262,19,6,4,19,193,0,10,False
+15934008,T0296,Great Western Highway,Great Western Highway Hvcs,Carawatha Road,Blue Mountains,Blackheath,2785.0,-33.61628,150.273605,0,0,0,0,0,0,0,True
+56606,10011,New South Head Road,New South Head Road,Bayswater Road,Woollahra,Edgecliff,2027.0,-33.876652,151.230606,17,2,3,14,134,45,41,False
+57294,69200,Lancaster Street,Lancaster Street,Bimbil Street,Blacktown,Blacktown,2148.0,-33.7658920288086,150.892974853516,0,0,0,19,6,0,1,False
+58847,99914,Great Western Highway,Great Western Highway,Bellevue Road,Blue Mountains,Faulconbridge,2776.0,-33.706028,150.527969,0,0,0,0,0,0,0,True
+57224,65143,Elizabeth Drive,Elizabeth Drive,Bonnyrigg Avenue,Fairfield,Bonnyrigg,2177.0,-33.889923,150.883972,2,0,0,5,15,0,1,False
+56730,21032,Strathallen Avenue,Strathallen Avenue,The Boulevarde,North Sydney,Cammeray,2062.0,-33.817001,151.212357,0,1,0,9,49,7,0,False
+57322,71024,Windsor Road,Windsor Road,Merriville Road,The Hills,Rouse Hill,2155.0,-33.699543,150.928497,7,1,2,8,60,1,7,False
+57293,69198,Sunnyholt Road,Sunnyholt Road,Devitt Street,Blacktown,Blacktown,2148.0,-33.769943,150.912094,20,3,5,24,4,2,36,False
+57368,72027,Windsor Road,Windsor Road,Hambledon Avenue,The Hills,Baulkham Hills,2153.0,-33.740467,150.984421,0,0,1,6,2,0,0,False
+57138,55044,Warringah Road,Warringah Road,Melwood Avenue,Warringah,Forestville,2087.0,-33.759975,151.211227,14,2,6,12,32,2,21,False
+56869,33014,Pacific Highway,Pacific Highway,Mowbray Road,Lane Cove,Lane Cove North,2066.0,-33.806141,151.17952,4,0,1,14,22,2,20,False
+57324,71035,Wallgrove Road,Wallgrove Road,Roussell Road,Blacktown,Eastern Creek,2766.0,-33.82074,150.851837,0,0,0,4,0,0,0,False
+57173,60001,Newbridge Road,Newbridge Road,Haig Avenue,Liverpool,Moorebank,2170.0,-33.926929,150.928101,14,3,6,32,20,0,15,False
+56781,24026,King Georges Road,King Georges Road,Roseland Avenue,Canterbury,Roselands,2196.0,-33.934917,151.0737,2,0,0,25,10,0,9,False
+15334030,T0342,Galston Road,Galston Road,Calderwood Road,Hornsby,Galston,2159.0,-33.65556,151.063828,0,0,0,0,0,0,0,True
+56615,10052,Syd Einfeld Drive,Syd Einfeld Drive,Grosvenor Street,Waverley,Bondi Junction,2022.0,-33.89072,151.250137,48,4,17,60,67,17,95,False
+57333,71059,Richmond Road,Richmond Road,Symonds Road,Blacktown,Glendenning,2761.0,-33.741375,150.866013,0,0,0,7,1,0,0,False
+56649,16010,Southern Cross Drive,Southern Cross Drive,Gardeners Road,Botany Bay,Eastlakes,2018.0,-33.925007,151.214737,1,2,0,12,15,0,5,False
+15286013,7164,Great Western Highway,Great Western Highway,Station Street,Holroyd,South Wentworthville,2145.0,-33.81562,150.969238,8,4,1,30,15,1,23,False
+56841,29005,Concord Road,Concord Road,Llewellyn Street,Canada Bay,Rhodes,2138.0,-33.824696,151.093216,0,0,0,9,25,1,1,False
+56678,18011,Princes Highway,Princes Highway,Yelverton Street,Marrickville,Sydenham,2044.0,-33.917812,151.171143,3,0,0,10,30,6,16,False
+57360,7168RLC,Great Western Highway,Great Western Highway,Reservoir Road,Blacktown,Blacktown,2148.0,-33.798203,150.897141,0,0,0,4,9,0,3,False
+57395,73038,Old Northern Road,Old Northern Road,Malabar Road,Hornsby,Dural,2158.0,-33.699642,151.01561,0,0,0,5,0,0,0,False
+57106,53005,Ryde Road,Ryde Road,Lofberg Road,Ku-Ring-Gai,West Pymble,2073.0,-33.763687,151.136978,2,2,2,20,22,2,3,False
+57263,68019,Great Western Highway,Great Western Highway,Emert Street,Holroyd,Wentworthville,2145.0,-33.814598,150.965225,8,4,0,16,15,2,7,False
+56662,16129,Wentworth Avenue,Wentworth Avenue,Southern Cross Drive,Botany Bay,Pagewood,2035.0,-33.936672,151.209625,0,0,0,0,0,0,0,True
+57238,66028,Cambridge Street,Cambridge Street,New Cambridge Street,Fairfield,Canley Heights,2166.0,-33.874428,150.925674,0,1,0,12,7,0,0,False
+15828005,9658,Pennant Hills Road,Pennant Hills Road,Masons Drive,The Hills,Oatlands,2117.0,-33.79353,151.018829,0,4,0,6,12,1,0,False
+15334003,7272,Edgar Street,Edgar Street,Marion Street,Bankstown,Bankstown,2200.0,-33.916008,151.014008,0,1,0,9,9,0,0,False
+57419,74062,Epping Road,Epping Road,Crimea Road,Ryde,Marsfield,2122.0,-33.770763,151.094559,2,1,0,4,82,2,0,False
+57426,74090,Pennant Hills Road,Pennant Hills Road,Loftus Road,Hornsby,Pennant Hills,2120.0,-33.740452,151.059372,0,1,0,11,85,0,0,False
+57258,66249X,Fairfield Street,Fairfield Street,Cockburn Crescent,Fairfield,Fairfield East,2165.0,-33.869339,150.96344,2,2,0,9,5,0,1,False
+15934007,T0295,Great Western Highway,Great Western Highway Hvcs,Carawatha Road,Blue Mountains,Blackheath,2785.0,-33.615974,150.273331,0,0,0,0,0,0,0,True
+57408,74011,Pacific Highway,Pacific Highway,Pennant Hills Road,Hornsby,Wahroonga,2076.0,-33.717724,151.108383,1,2,0,4,28,9,0,False
+56844,30001,Victoria Road,Victoria Road,Burns Bay Road,Canada Bay,Drummoyne,2047.0,-33.842159,151.147903,0,0,0,0,11,1,0,False
+57047,50231,Marsden Road,Marsden Road,Raimonde Road,Parramatta,Carlingford,2118.0,-33.78928,151.062759,1,1,1,9,7,0,2,False
+57134,55028,Pittwater Road,Pittwater Road,Nareen Parade,Pittwater,North Narrabeen,2101.0,-33.706745,151.297028,10,0,1,10,15,1,14,False
+56706,20012,Parramatta Road,Parramatta Road,Brown Street,Leichhardt,Leichhardt,2040.0,-33.889751,151.145081,10,7,0,26,23,2,13,False
+57289,69084,Old Windsor Road,Old Windsor Road,Hammers Road,Parramatta,Northmead,2152.0,-33.790771,150.978729,2,0,2,22,7,0,10,False
+57083,51210,Rutledge Street,Rutledge Street,West Parade,Ryde,Eastwood,2122.0,-33.79253,151.081924,44,2,13,33,46,1,43,False
+57458,76016,Pacific Highway,Pacific Highway,The Gully Road,Hornsby,Cowan,2081.0,-33.607098,151.161026,0,0,0,0,0,0,0,True
+15334004,7275,Georges River Road,Georges River Road,Croydon Avenue,Burwood,Croydon Park,2133.0,-33.894714,151.110962,7,4,2,17,12,0,9,False
+56369,07737,Hume Motorway,Hume Motorway,Menangle Road,Campbelltown,Menangle Park,2563.0,-34.115025,150.759109,0,0,0,0,0,0,0,True
+58871,F3FWY002,Pacific Motorway,Pacific Motorway,Belair Place,Hornsby,Mount Kuring-Gai,2080.0,-33.651676,151.137741,0,0,0,0,0,0,0,True
+57425,74087,Pennant Hills Road,Pennant Hills Road,The Crescent,Hornsby,Pennant Hills,2120.0,-33.738918,151.072128,3,7,4,21,50,1,21,False
+15286009,7159,Cambridge Street,Cambridge Street,Joseph Street,Fairfield,Canley Heights,2166.0,-33.888157,150.922974,3,1,0,11,7,1,2,False
+57316,70154,Knox Road,Knox Road,Cross Street,Blacktown,Doonside,2767.0,-33.763252,150.863083,0,0,0,7,19,4,0,False
+57354,71172,Power Street,Power Street,Owen Street,Blacktown,Doonside,2767.0,-33.754395,150.859238,0,0,0,2,0,0,0,False
+15286007,7150,Showground Road,Showground Road,Victoria Avenue,The Hills,Castle Hill,2154.0,-33.724922,150.977127,2,1,1,14,4,1,13,False
+15286011,7162,Kingsway,Kingsway,Gannons Road,Sutherland,Woolooware,2230.0,-34.045811,151.133041,1,0,1,22,7,0,4,False
+15334016,T0231,Victoria Road,Victoria Road,Burns Bay Road,Hunters Hill,Huntleys Point,2111.0,-33.838615,151.143753,0,1,0,4,21,1,0,False
+57101,52039,Hills Motorway,M2 Motorway,Rivett Road,Ryde,North Ryde,2113.0,-33.798344,151.13913,4,1,0,12,12,8,2,False
+15286010,7161,Pennant Hills Road,Pennant Hills Road,Beecroft Road,Hornsby,Pennant Hills,2120.0,-33.740406,151.060989,0,1,0,11,93,0,0,False
+57182,60045,Copeland Street,Copeland Street,Campbell Street,Liverpool,Liverpool,2170.0,-33.916756,150.919952,37,1,6,9,22,0,95,False
+56888,34016,Condamine Street,Condamine Street,Sloane Crescent,Warringah,Manly Vale,2093.0,-33.778187,151.267136,2,3,0,11,44,1,0,False
+56748,23019,Princes Highway,Princes Highway,Taylor Avenue,Rockdale,Banksia,2216.0,-33.945034,151.141708,4,0,2,12,5,3,29,False
+56740,22043,Ourimbah Road,Ourimbah Road,Bond Street,Mosman,Mosman,2088.0,-33.822067,151.238358,11,1,2,17,16,1,26,False
+57127,53208,Boundary Street,Boundary Street,Ferncourt Avenue,Willoughby,Roseville,2069.0,-33.784893,151.187454,0,2,0,14,72,0,2,False
+56613,10032,Oxford Street,Oxford Street,Syd Einfeld Drive,Randwick,Centennial Park,2021.0,-33.890221,151.239777,12,1,1,18,72,11,25,False
+99990010,9836-PR,Victoria Road,Victoria Road,Cressy Road,Ryde,Ryde,2112.0,-33.819687,151.117416,0,3,0,12,74,0,4,False
+57290,69087,Prospect Highway,Prospect Highway,The Hills Crescent,Blacktown,Seven Hills,2147.0,-33.774277,150.935242,1,2,2,18,10,0,17,False
+56663,16130,Gardeners Road,Gardeners Road,Southern Cross Drive,Botany Bay,Eastlakes,2018.0,-33.924473,151.214676,1,2,0,12,15,0,5,False
+57078,51024,Victoria Road,Victoria Road,Belmore Lane,Ryde,Ryde,2112.0,-33.815586,151.101623,7,0,4,24,56,4,17,False
+15286003,7132,Princes Highway,Princes Highway,The Seven Ways,Rockdale,Rockdale,2216.0,-33.953056,151.137482,23,5,6,43,10,1,43,False
+55432,03022,Cleveland Street,Cleveland Street,Anzac Parade,Sydney,Moore Park,2021.0,-33.894791,151.220764,8,2,0,22,47,3,0,False
+57502,85016,Camden Valley Way,Camden Valley Way,Argyle Street,Camden,Elderslie,2570.0,-34.054153,150.707245,0,0,0,0,0,0,0,True
+57168,59025,Barrenjoey Road,Barrenjoey Road,Pittwater Road,Pittwater,Mona Vale,2103.0,-33.677433,151.304688,0,0,0,1,2,0,0,False
+56860,32028,Epping Road,Epping Road,Elizabeth Parade,Lane Cove,Lane Cove West,2066.0,-33.810368,151.16188,1,0,0,12,15,7,2,False
+57300,70011,Great Western Highway,Great Western Highway,Toongabbie Road,Holroyd,Greystanes,2145.0,-33.806572,150.932541,1,1,0,7,1,0,1,False
+56857,32022,Epping Road,Epping Road,Lane Cove Tunnel,Lane Cove,Lane Cove,2066.0,-33.812298,151.170197,33,3,7,25,35,2,33,False
+57462,83011,Campbelltown Road,Campbelltown Road,Blaxland Road,Campbelltown,Leumeah,2560.0,-34.050945,150.825409,5,0,1,11,7,2,1,False
+15334014,T0085,Galston Road,Galston Road,Montview Parade,Hornsby,Hornsby Heights,2077.0,-33.665455,151.090271,0,0,0,0,0,0,0,True
+57373,72055,Windsor Road,Windsor Road,Oakland Avenue,The Hills,Baulkham Hills,2153.0,-33.76622,150.997086,0,1,1,12,7,0,0,False
+57105,53004,Pacific Highway,Pacific Highway,Mcintyre Street,Ku-Ring-Gai,Gordon,2072.0,-33.75317,151.151077,32,1,6,12,37,2,20,False
+56855,31111,Victoria Road,Victoria Road,Mortimer Lewis Drive,Hunters Hill,Huntleys Point,2111.0,-33.839256,151.14035,0,1,0,5,22,3,0,False
+57096,51235,Victoria Road,Victoria Road,Belmore Street,Ryde,Ryde,2112.0,-33.81551,151.101105,4,0,1,24,56,5,14,False
+55306,01004,Western Distributor,Western Distributor,Sussex Street,Sydney,Sydney,2000.0,-33.86618,151.203201,233,6,22,88,57,62,151,False
+56827,28028,Hume Highway,Hume Highway,Waterloo Road,Bankstown,Greenacre,2190.0,-33.889046,151.060608,1,1,0,11,4,1,6,False
+56729,21029,Military Road,Military Road,Watson Street,North Sydney,Neutral Bay,2089.0,-33.829956,151.218063,31,2,7,17,61,1,17,False
+57128,53209,Pacific Highway,Pacific Highway,Lucinda Avenue,Ku-Ring-Gai,Wahroonga,2076.0,-33.718727,151.110672,1,2,1,4,34,1,0,False
+57025,50001,Silverwater Road,Silverwater Road,Allambie Street,Parramatta,Rydalmere,2116.0,-33.823917,151.051331,2,0,0,3,9,0,0,False
+56918,37022,Heathcote Road,Heathcote Road,Beethoven Street,Sutherland,Engadine,2233.0,-34.072643,151.000855,0,0,0,0,0,0,0,True
+57438,74224,Pennant Hills Road,Pennant Hills Road,Woodstock Road,The Hills,Carlingford,2118.0,-33.769329,151.049728,0,2,0,12,9,1,1,False
+57159,57024,Mona Vale Road,Mona Vale Road,Addison Road,Warringah,Ingleside,2101.0,-33.686592,151.256943,0,0,0,2,1,2,0,False
+57555,88046,Bridge Street,Bridge Street,Court Street,Hawkesbury,Windsor,2756.0,-33.605782,150.824585,0,0,0,0,0,0,0,True
+56868,33013,Pacific Highway,Pacific Highway,Boundary Street,Willoughby,Roseville,2069.0,-33.787891,151.179306,10,1,9,23,34,0,27,False
+56838,29001,Homebush Bay Drive,Homebush Bay Drive,Oulton Avenue,Canada Bay,Rhodes,2138.0,-33.836475,151.085938,19,3,1,12,14,3,23,False
+56914,37001,Princes Highway,Princes Highway,Loftus Avenue,Sutherland,Loftus,2232.0,-34.054104,151.046188,0,0,0,13,1,2,0,False
+15154104,7270,Lane Cove Road,Lane Cove Road,Coxs Road,Ryde,North Ryde,2113.0,-33.793304,151.119659,9,2,2,15,8,1,14,False
+56801,25001,Liverpool Road,Liverpool Road,Elizabeth Street,Ashfield,Summer Hill,2130.0,-33.889008,151.133102,9,3,0,19,35,2,8,False
+57361,7171RLC,City-West Link Road,City-West Link Road,Timbrell Drive,Ashfield,Haberfield,2045.0,-33.870773,151.142013,1,1,0,11,21,0,0,False
+57314,70150,Blacktown Road,Blacktown Road,Lancelot Street,Blacktown,Seven Hills,2147.0,-33.791531,150.919113,0,2,0,10,10,0,0,False
+57297,69205,Balmoral Street,Balmoral Street,Kildare Road,Blacktown,Blacktown,2148.0,-33.767948,150.904663,29,1,7,66,31,2,53,False
+55406,02393,Crown Street,Crown Street,William Street,Sydney,Darlinghurst,2010.0,-33.874722,151.216217,86,5,7,27,66,49,36,False
+56950,42001,Alfords Point Road,Alfords Point Road,Snow Gum Place,Bankstown,Padstow Heights,2211.0,-33.977142,151.030533,0,0,0,0,1,1,0,False
+56745,23002,East Freeway,M5 East Freeway,General Holmes Drive,Rockdale,Mascot,2020.0,-33.946026,151.172195,0,0,0,2,1,1,0,False
+57183,60046,Orange Grove Road,Orange Grove Road,Links Avenue,Liverpool,Liverpool,2170.0,-33.904961,150.917831,10,0,1,3,5,0,29,False
+56778,24014,Canterbury Road,Canterbury Road,Sproule Street,Canterbury,Roselands,2196.0,-33.928268,151.077286,1,1,1,14,14,0,4,False
+58892,SHB,Sydney Harbour Bridge,Bradfield Highway,Hickson Road,North Sydney,Milsons Point,2061.0,-33.852295,151.210846,5,0,0,8,49,30,6,False
+57017,49025,Parramatta Road,Parramatta Road,Marsh Street,Parramatta,Clyde,2142.0,-33.832642,151.016739,3,0,0,31,21,0,4,False
+57060,50385,Church Street,Church Street,Daking Street,Parramatta,North Parramatta,2151.0,-33.794579,151.000626,9,6,2,17,5,0,65,False
+56980,43246,Davies Road,Davies Road,Alma Road,Bankstown,Padstow,2211.0,-33.961929,151.037201,0,0,0,10,5,0,0,False
+56974,43237,Fairford Road,Fairford Road,South Western Motorway,Bankstown,Padstow,2211.0,-33.939327,151.035797,0,0,0,4,0,0,5,False
+57055,50374,Pennant Hills Road,Pennant Hills Road,Sutherland Road,Parramatta,North Parramatta,2151.0,-33.795948,151.012634,0,1,1,11,7,1,0,False
+57048,50232,Marsden Road,Marsden Road,Farnell Street,Parramatta,Ermington,2115.0,-33.802933,151.066223,0,0,0,18,19,0,0,False
+55357,02277,Lee Street,Lee Street,Little Regent Street,Sydney,Chippendale,2008.0,-33.884666,151.203171,173,13,9,108,89,91,122,False
+56984,44026,Canterbury Road,Canterbury Road,Milperra Road,Bankstown,Revesby,2212.0,-33.938198,151.019394,3,2,1,12,4,0,2,False
+55386,02380,Pyrmont Street,Pyrmont Street,Murray Street,Sydney,Pyrmont,2009.0,-33.872505,151.196762,66,3,7,41,50,35,49,False
+57441,74230,Pennant Hills Road,Pennant Hills Road,Terra Street,Hornsby,Thornleigh,2120.0,-33.724735,151.086151,1,1,0,21,33,7,6,False
+56949,41154,Stoney Creek Road,Stoney Creek Road,Illawarra Parade,Hurstville,Beverly Hills,2209.0,-33.951763,151.088257,3,2,0,21,10,0,1,False
+56683,18041,Canal Road,Canal Road,Burrows Road,Marrickville,St Peters,2044.0,-33.919224,151.177978,2,0,0,7,2,9,2,False
+57413,74030,Pennant Hills Road,Pennant Hills Road,Copeland Road,The Hills,West Pennant Hills,2125.0,-33.755604,151.048203,0,0,0,15,8,0,0,False
+57103,53001,Mona Vale Road,Mona Vale Road,Woodlands Avenue,Ku-Ring-Gai,Pymble,2073.0,-33.742413,151.150818,0,0,0,5,71,0,0,False
+57522,86036,Parker Street,Parker Street,Cox Avenue,Penrith,Kingswood,2747.0,-33.756058,150.712326,0,0,0,0,0,0,0,True
+15334002,7251,City-West Link Road,City-West Link Road,James Street,Leichhardt,Lilyfield,2040.0,-33.874916,151.155319,2,1,0,16,17,2,3,False
+57136,55036,Warringah Road,Warringah Road,Daines Parade,Warringah,Beacon Hill,2100.0,-33.753216,151.257523,2,1,0,13,51,0,1,False
+57443,74439,Wongala Crescent,Wongala Crescent,Sutherland Road,Hornsby,Beecroft,2119.0,-33.750919,151.065918,1,3,4,14,80,0,4,False
+57429,74200,Junction Road,Junction Road,Pacific Motorway,Hornsby,Wahroonga,2076.0,-33.708275,151.116898,0,1,0,17,77,0,0,False
+56989,44043,Henry Lawson Drive,Henry Lawson Drive,Milperra Road,Bankstown,Milperra,2214.0,-33.930389,150.979797,2,0,0,4,5,0,4,False
+56912,36208,Princes Highway,Princes Highway,Amaroo Street,Sutherland,Sylvania,2224.0,-34.022137,151.089767,0,2,0,7,20,3,1,False
+58893,SHT,Warringah Freeway,Warringah Freeway,Sydney Harbour Tunnel,North Sydney,North Sydney,2060.0,-33.841621,151.210663,75,4,10,47,124,61,41,False
+56705,20001,Western Distributor,Western Distributor,Bowman Street,Leichhardt,Rozelle,2039.0,-33.869068,151.185349,5,1,0,1,32,17,1,False
+55430,03018,Eastern Distributor,Eastern Distributor,Anzac Parade,Sydney,Moore Park,2021.0,-33.887547,151.219452,15,3,0,6,42,16,15,False
+15934011,T0299,Great Western Highway,Great Western Highway Hvcs,Carawatha Road,Blue Mountains,Blackheath,2785.0,-33.616905,150.273621,0,0,0,0,0,0,0,True
+57133,55027,Pittwater Road,Pittwater Road,Waterloo Street,Warringah,Narrabeen,2101.0,-33.711651,151.296783,26,3,6,16,26,0,24,False
+57141,55050,Warringah Road,Warringah Road,Daines Parade,Warringah,Beacon Hill,2100.0,-33.753262,151.257889,2,1,0,14,51,0,1,False
+56795,24213,Canterbury Road,Canterbury Road,Charles Street,Canterbury,Canterbury,2193.0,-33.913277,151.11734,11,0,3,31,26,1,25,False
+56716,20075,City West Link Road,City West Link Road,The Crescent,Leichhardt,Lilyfield,2040.0,-33.871185,151.172668,0,1,0,10,41,4,3,False
+57357,7150RLC,Showground Road,Showground Road,Victoria Avenue,The Hills,Castle Hill,2154.0,-33.724926,150.977097,2,1,1,14,4,1,13,False
+57518,86008,Great Western Highway,Great Western Highway,Bridge Street,Penrith,Werrington,2747.0,-33.769199,150.761856,0,0,0,0,0,0,0,True
+56873,33026,Penshurst Street,Penshurst Street,Warrah Lane,Willoughby,Chatswood,2067.0,-33.788738,151.193848,8,0,1,16,30,1,13,False
+56891,34028,Burnt Bridge Creek Deviation,Burnt Bridge Creek Deviation,Brook Road,Manly,Balgowlah,2093.0,-33.793015,151.253708,5,4,0,18,8,1,15,False
+99990004,7123-PR,Pages Road,Pages Road,Great Western Highway,Penrith,St Marys,2760.0,-33.769588,150.768738,0,0,0,0,0,0,0,True
+56836,28119,Western Motorway,Western Motorway,Parramatta Road,Auburn,Sydney Olympic Park,2127.0,-33.856541,151.068039,2,0,0,1,27,2,3,False
+55307,01011,Cahill Expressway,Cahill Expressway,Pitt Street,Sydney,Sydney,2000.0,-33.86129,151.209854,172,4,6,52,122,98,54,False
+56800,24221,Bexley Road,Bexley Road,South Western Motorway,Canterbury,Kingsgrove,2208.0,-33.935444,151.111282,5,0,5,21,13,2,9,False
+56976,43240,Canterbury Road,Canterbury Road,Stacey Street,Bankstown,Bankstown,2200.0,-33.933296,151.039734,1,1,0,17,2,0,9,False
+57369,72028,Castle Hill Road,Castle Hill Road,Franklin Road,Hornsby,Cherrybrook,2126.0,-33.738117,151.033081,1,3,0,17,26,3,1,False
+55355,02273,Broadway,Broadway,Derwent Lane,Sydney,Glebe,2037.0,-33.884663,151.192276,66,9,8,21,129,37,60,False
+57456,76001,Pacific Highway,Pacific Highway,Brooklyn Road,Hornsby,Cowan,2081.0,-33.541714,151.198547,0,0,0,0,0,0,0,True
+56820,28008,Centenary Drive,Centenary Drive,Richmond Road,Strathfield,Homebush West,2140.0,-33.86327,151.066605,5,1,0,11,7,1,5,False
+58872,F3FWY003,Pacific Motorway,Pacific Motorway,Peat Street,Hornsby,Cowan,2081.0,-33.560299,151.192551,0,0,0,0,0,0,0,True
+15334029,T0337,Galston Road,Galston Road,Calderwood Road,Hornsby,Galston,2159.0,-33.654926,151.060974,0,0,0,0,0,0,0,True
+57271,68207,Freame Street,Freame Street,Hart Drive,Holroyd,Wentworthville,2145.0,-33.806152,150.970047,11,0,9,24,10,0,20,False
+56819,28001,Western Motorway,Western Motorway,Bedford Road,Strathfield,Homebush,2140.0,-33.859497,151.076492,7,1,0,2,8,1,20,False
+56814,27143,Parramatta Road,Parramatta Road,Telopea Avenue,Strathfield,Homebush West,2140.0,-33.85709,151.066177,0,0,0,0,26,0,1,False
+57457,76010,Pacific Highway,Pacific Highway,Berowra Waters Road,Hornsby,Cowan,2081.0,-33.607269,151.160721,0,0,0,0,0,0,0,True
+57085,51213,Victoria Road,Victoria Road,Ryedale Road,Ryde,West Ryde,2114.0,-33.808025,151.089996,9,2,8,32,5,1,40,False
+57053,50260,Silverwater Road,Silverwater Road,River Road,Parramatta,Rydalmere,2116.0,-33.819763,151.05188,1,0,0,6,13,0,0,False
+56846,30011,Victoria Road,Victoria Road,Byrnes Street,Leichhardt,Rozelle,2039.0,-33.860798,151.164291,2,0,0,4,35,1,1,False
+15934006,T0294,Great Western Highway,Great Western Highway Hvcs,Carawatha Road,Blue Mountains,Blackheath,2785.0,-33.615574,150.272995,0,0,0,0,0,0,0,True
+15334001,7248,Stacey Street,Stacey Street,Hume Highway,Bankstown,Bankstown,2200.0,-33.906151,151.040207,1,1,0,20,12,0,1,False
+57143,55052,Wakehurst Parkway,Wakehurst Parkway,Dreadnought Road,Warringah,Oxford Falls,2100.0,-33.737915,151.244888,0,3,0,0,15,0,0,False
+15934009,T0297,Great Western Highway,Great Western Highway Hvcs,Carawatha Road,Blue Mountains,Blackheath,2785.0,-33.618145,150.274261,0,0,0,0,0,0,0,True
+57365,72022,Castle Hill Road,Castle Hill Road,Old Northern Road,Hornsby,Castle Hill,2154.0,-33.730938,151.017548,1,0,1,21,54,0,0,False
+57051,50240,Briens Road,Briens Road,Old Windsor Road,Parramatta,Northmead,2152.0,-33.796436,150.987595,4,2,0,8,9,0,3,False
+99990013,9834-PR,Kingsway,Kingsway,Sylvania Road,Sutherland,Miranda,2228.0,-34.033203,151.092529,1,2,1,12,20,0,0,False
+15252035,7274,Great Western Highway,Great Western Highway,Carlisle Avenue,Blacktown,Minchinbury,2770.0,-33.779202,150.814102,0,0,0,0,0,0,0,True
+15252018,6188,Great Western Highway,Great Western Highway,Victoria Street,Blue Mountains,Mount Victoria,2786.0,-33.582989,150.240768,0,0,0,0,0,0,0,True
+58703,99043,Great Western Highway,Great Western Highway,Railway Parade,Blue Mountains,Bullaburra,2784.0,-33.724335,150.405151,0,0,0,0,0,0,0,True
+57176,60005,Hume Highway,Hume Highway,South Western Motorway,Liverpool,Liverpool,2170.0,-33.937553,150.913849,3,0,0,8,10,1,7,False
+56973,43236,Fairford Road,Fairford Road,Aster Avenue,Bankstown,Bankstown,2200.0,-33.926025,151.038132,0,0,0,8,9,0,0,False
+57535,87001,Great Western Highway,Great Western Highway,High Street,Penrith,Penrith,2750.0,-33.746132,150.681915,0,0,0,0,0,0,0,True
+57174,60002,South Western Motorway,South Western Motorway,Lakewood Crescent,Liverpool,Moorebank,2170.0,-33.939297,150.921341,0,0,0,1,3,0,1,False
+15648002,9849,The Boulevarde,The Boulevarde,Torrington Road,Strathfield,Strathfield,2135.0,-33.877975,151.093185,10,6,2,19,203,0,5,False
+56916,37005,Princes Highway,Princes Highway,Yanagang Street,Sutherland,Waterfall,2233.0,-34.132504,150.993759,0,0,0,0,0,0,0,True
+57377,72083,Renown Road,Renown Road,Barclay Road,The Hills,North Rocks,2151.0,-33.765114,151.009125,0,0,0,5,12,0,0,False
+57250,66240,The Horsley Drive,The Horsley Drive,Fairfield Street,Fairfield,Fairfield,2165.0,-33.870174,150.96106,17,2,2,33,6,0,14,False
+57305,70067,Eastern Road,Eastern Road,Westlink M7,Blacktown,Rooty Hill,2766.0,-33.771648,150.857834,2,0,0,4,32,0,1,False
+57140,55049,Pittwater Road,Pittwater Road,Jenkins Street,Warringah,Collaroy,2097.0,-33.729507,151.30011,14,0,3,6,15,1,4,False
+55329,02062,Enmore Road,Enmore Road,Bailey Street,Marrickville,Newtown,2042.0,-33.898201,151.177399,84,4,9,16,24,15,73,False
+56951,42101,South Western Motorway,South Western Motorway,Ely Street,Bankstown,Revesby,2212.0,-33.940006,151.012375,0,1,0,15,27,0,0,False
+56881,33098,Willoughby Road,Willoughby Road,Small Street,Willoughby,Willoughby,2068.0,-33.811386,151.199509,5,0,1,4,49,1,2,False
+57256,66248,Warren Road,Warren Road,Smithfield Road,Fairfield,Smithfield,2164.0,-33.850235,150.944809,3,0,0,1,9,0,0,False
+15286012,7163,Victoria Road,Victoria Road,Evans Street,Leichhardt,Rozelle,2039.0,-33.865181,151.171997,14,3,1,22,31,2,13,False
+15334032,T0384,Bells Line Of Road,Bells Line Of Road,Sandham Road,Blue Mountains,Bell,2786.0,-33.511532,150.284225,0,0,0,0,0,0,0,True
+15334006,9827,Pittwater Road,Pittwater Road,Devitt Street,Warringah,Narrabeen,2101.0,-33.719955,151.298111,7,1,0,7,16,1,12,False
+56927,40041,King Georges Road,King Georges Road,Cooleen Street,Kogarah,Blakehurst,2221.0,-33.984394,151.109436,1,1,1,14,13,1,6,False
+15828001,7184,Ryde Road,Ryde Road,Lady Game Drive,Ku-Ring-Gai,West Pymble,2073.0,-33.772957,151.135391,0,0,0,9,2,13,0,False
+57042,50207,Victoria Road,Victoria Road,Bridge Street,Parramatta,Parramatta,2150.0,-33.809143,151.025696,14,3,0,14,96,19,7,False
+56776,24008,King Georges Road,King Georges Road,The Boulevarde,Canterbury,Wiley Park,2195.0,-33.922554,151.068237,1,3,0,9,10,0,1,False
+15286001,7121,South Dowling Street,South Dowling Street,Eastern Distributor,Sydney,Surry Hills,2010.0,-33.886032,151.218079,62,5,2,15,41,14,40,False
+57430,74202,Pacific Highway,Pacific Highway,Mills Avenue,Hornsby,Asquith,2077.0,-33.684055,151.110504,3,2,1,13,25,0,1,False
+17126149,7120,South Dowling Street,South Dowling Street,Fitzroy Street,Sydney,Surry Hills,2010.0,-33.886311,151.217911,58,4,2,13,40,14,40,False
+57102,52040,Epping Road,Epping Road,Rivett Road,Ryde,North Ryde,2113.0,-33.798531,151.138992,4,1,0,11,12,8,2,False
+56863,32039,River Road,River Road,Fleming Street,Lane Cove,Lane Cove,2066.0,-33.825085,151.178818,0,1,0,16,12,2,0,False
+57050,50234,Victoria Road,Victoria Road,Myrtle Street,Parramatta,Rydalmere,2116.0,-33.812046,151.039719,4,1,0,16,11,0,2,False
+55348,02243,Eastern Distributor,Eastern Distributor,Flinders Street,Sydney,Darlinghurst,2010.0,-33.884388,151.217804,95,4,8,23,35,25,64,False
+15934010,T0298,Great Western Highway,Great Western Highway Hvcs,Carawatha Road,Blue Mountains,Blackheath,2785.0,-33.617626,150.274033,0,0,0,0,0,0,0,True
+57011,49001,Parramatta Road,Parramatta Road,Marsh Street,Parramatta,Granville,2142.0,-33.832489,151.016388,4,0,0,32,21,0,3,False
+56753,23032,Forest Road,Forest Road,Bayview Street,Rockdale,Bexley,2207.0,-33.947483,151.12796,1,2,0,31,7,0,7,False
+56837,28121,Western Motorway,Western Motorway,Homebush Bay Drive,Strathfield,Homebush West,2140.0,-33.85783,151.070923,8,1,0,0,21,2,8,False
+56762,23067,Marsh Street,Marsh Street,Rockwell Avenue,Rockdale,Arncliffe,2205.0,-33.934475,151.15831,2,0,0,2,37,5,1,False
+57434,74218,Pennant Hills Road,Pennant Hills Road,Frith Avenue,Hornsby,Wahroonga,2076.0,-33.720676,151.10527,0,1,0,11,15,0,0,False
+56885,34001,Spit Road,Spit Road,Manly Road,Mosman,Middle Harbour,2087.0,-33.803474,151.246109,3,0,0,8,49,3,1,False
+57440,74229,Beecroft Road,Beecroft Road,Old Beecroft Road,Hornsby,Cheltenham,2119.0,-33.760658,151.07962,0,0,0,4,99,1,0,False
+57135,55030,Pittwater Road,Pittwater Road,Lismore Avenue,Warringah,Dee Why,2099.0,-33.747414,151.290802,1,3,0,14,8,1,6,False
+57318,71014,Great Western Highway,Great Western Highway,Hewitt Street,Penrith,Oxley Park,2760.0,-33.776749,150.803101,0,0,0,0,0,0,0,True
+57034,50054,Windsor Road,Windsor Road,Lombard Street,Parramatta,Northmead,2152.0,-33.788662,150.995102,4,2,2,6,10,0,11,False
+56895,36001,Princes Highway,Princes Highway,Townson Street,Kogarah,Blakehurst,2221.0,-33.997036,151.116333,1,0,0,7,9,0,0,False
+56892,34029,Wakehurst Parkway,Wakehurst Parkway,Judith Street,Manly,Seaforth,2092.0,-33.781223,151.237793,0,0,0,6,58,4,2,False
+57203,64022,Elizabeth Drive,Elizabeth Drive,Airlie Crescent,Liverpool,Cecil Hills,2171.0,-33.88306,150.851425,0,1,0,11,6,0,2,False
+57476,84001,Hume Motorway,Hume Motorway,Brooks Road,Campbelltown,Ingleburn,2565.0,-33.989937,150.8526,1,0,0,2,0,0,5,False
+57118,53198,Pacific Highway,Pacific Highway,Bruce Avenue,Ku-Ring-Gai,Killara,2071.0,-33.761337,151.154983,1,1,1,3,30,0,0,False
+99990003,7119-PR,Hawkesbury Road,Hawkesbury Road,Great Western Highway,Holroyd,Merrylands,2160.0,-33.817974,150.981827,0,3,1,7,10,0,1,False
+55363,02309,O'riordan Street,O'riordan Street,Johnson Street,Sydney,Alexandria,2015.0,-33.907532,151.200974,40,1,1,18,45,10,35,False
+56896,36002,Taren Point Road,Taren Point Road,Old Taren Point Road,Sutherland,Taren Point,2229.0,-34.011719,151.126007,0,0,0,1,10,3,0,False
+57267,68024,Great Western Highway,Great Western Highway,Rawson Road,Holroyd,Wentworthville,2145.0,-33.814941,150.966827,11,4,1,21,12,2,22,False
+56694,19065,Parramatta Road,Parramatta Road,Mathieson Street,Leichhardt,Annandale,2038.0,-33.887417,151.173325,25,4,1,11,35,4,38,False
+57356,71180,Old Windsor Road,Old Windsor Road,Balmoral Road,The Hills,Kellyville,2155.0,-33.726486,150.940506,3,0,0,12,1,0,0,False
+57298,70001,Great Western Highway,Great Western Highway,Rudders Lane,Blacktown,Eastern Creek,2766.0,-33.791676,150.867493,2,0,0,9,40,20,3,False
+55318,02015,City Road,City Road,Barff Road,Sydney,Camperdown,2050.0,-33.888699,151.191421,29,4,1,13,179,24,15,False
+56823,28022,Liverpool Road,Liverpool Road,Gould Street,Strathfield,Strathfield South,2136.0,-33.887241,151.073135,6,1,0,16,64,1,3,False
+57362,72013,James Ruse Drive,James Ruse Drive,North Rocks Road,The Hills,North Rocks,2151.0,-33.791458,151.001419,9,5,1,14,9,3,40,False
+57537,87006,Western Motorway,Western Motorway,Loftus Street,Penrith,Regentville,2745.0,-33.770508,150.667374,0,0,0,0,0,0,0,True
+56865,32097,Mowbray Road,Mowbray Road,Walkers Drive,Willoughby,Lane Cove North,2066.0,-33.80106,151.146164,1,1,0,5,30,14,0,False
+55388,02381,Western Distributor,Western Distributor,Harris Street,Sydney,Ultimo,2007.0,-33.874912,151.197159,42,3,3,24,66,25,35,False
+15286002,7126,Kingsway,Kingsway,Port Hacking Road,Sutherland,Miranda,2228.0,-34.035271,151.113007,1,3,10,13,21,0,5,False
+56845,30005,Parramatta Road,Parramatta Road,Cheltenham Road,Canada Bay,Five Dock,2046.0,-33.869789,151.112778,4,2,1,6,49,0,30,False
+58870,F3FWY001,Pacific Motorway,Pacific Motorway,Curtin Avenue,Ku-Ring-Gai,North Wahroonga,2076.0,-33.694206,151.121323,1,0,0,4,12,0,0,False
+15370001,7139,New South Head Road,New South Head Road,Mclachlan Avenue,Sydney,Darlinghurst,2010.0,-33.876884,151.228683,31,2,4,10,114,51,54,False
+56861,32029,Burns Bay Road,Burns Bay Road,Linley Lane,Lane Cove,Lane Cove West,2066.0,-33.821175,151.149902,1,1,0,16,54,5,1,False
+57178,60032,Elizabeth Drive,Elizabeth Drive,Reservoir Road,Liverpool,Liverpool,2170.0,-33.914284,150.907883,1,0,2,17,4,0,1,False
+57095,51234,Lane Cove Road,Lane Cove Road,Lavarack Street,Ryde,Ryde,2112.0,-33.80019,151.114365,0,1,0,17,12,0,0,False
+57327,71043,Summerland Crescent,Summerland Crescent,Everingham Street,Blacktown,Colebee,2761.0,-33.726101,150.844681,3,0,2,4,11,0,8,False
+55423,02413,Allen Street,Allen Street,Bulwara Road,Sydney,Pyrmont,2009.0,-33.873695,151.195328,51,3,7,35,45,25,69,False
+57073,51005,Lane Cove Road,Lane Cove Road,Curzon Street,Ryde,Ryde,2112.0,-33.809544,151.106827,18,4,5,18,9,1,29,False
+15334031,T0345,Galston Road,Galston Road,Clarinda Street,Hornsby,Hornsby,2077.0,-33.689632,151.097748,3,0,2,26,91,0,4,False
+57019,49095,James Ruse Drive,James Ruse Drive,Thomas Street,Parramatta,Parramatta,2150.0,-33.814327,151.022492,11,2,0,11,100,22,11,False
+58654,980FDSC,Great Western Highway,Great Western Highway,Steele Street,Parramatta,Parramatta,2150.0,-33.818405,150.994781,2,1,1,16,23,4,12,False
+57008,48001,Western Motorway,Western Motorway,Mons Street,Auburn,Lidcombe,2141.0,-33.852379,151.057754,3,0,0,20,2,3,6,False
+56780,24021,Punchbowl Road,Punchbowl Road,Margaret Street,Strathfield,Belfield,2191.0,-33.899914,151.088058,2,3,0,18,24,0,1,False
+56802,25002,Parramatta Road,Parramatta Road,St Davids Road,Ashfield,Ashfield,2131.0,-33.885006,151.136261,4,1,1,23,31,1,11,False
+55304,01003,Sydney Harbour Tunnel,Sydney Harbour Tunnel,Cahill Expressway,Sydney,Sydney,2000.0,-33.860836,151.213791,73,2,2,43,135,136,29,False
+57049,50233,Silverwater Road,Silverwater Road,Batten Crescent,Parramatta,Ermington,2115.0,-33.807297,151.053345,2,1,0,8,13,0,3,False
+56925,40017,Princes Highway,Princes Highway,Carwar Lane,Kogarah,Carss Park,2221.0,-33.981586,151.118088,5,2,1,10,43,1,4,False
+56872,33023,Eastern Valley Way,Eastern Valley Way,Sunnyside Crescent,Willoughby,Castlecrag,2068.0,-33.799751,151.210465,3,0,2,16,17,3,2,False
+15286008,7153,Olympic Drive,Olympic Drive,Vaughan Street,Auburn,Lidcombe,2141.0,-33.8651123046875,151.041610717773,16,1,0,21,8,0,4,False
+56982,44002,Hume Highway,Hume Highway,Woodville Road,Bankstown,Villawood,2163.0,-33.8899269104004,150.973999023438,0,1,0,11,3,0,0,False
+57000,44139,Hume Highway,Hume Highway,Knight Street,Fairfield,Lansvale,2166.0,-33.8911323547363,150.965896606445,1,0,0,6,13,1,1,False
+56981,44001,Newbridge Road,Newbridge Road,Henry Lawson Drive,Bankstown,Milperra,2214.0,-33.9292488098145,150.979049682617,2,0,0,7,5,0,3,False
+56975,43239,Hume Highway,Hume Highway,Stacey Street,Bankstown,Greenacre,2190.0,-33.9051513671875,151.041351318359,0,1,0,18,12,0,1,False
+56965,43216,Joseph Street,Joseph Street,Lewis Street,Auburn,Regents Park,2143.0,-33.8876495361328,151.039489746094,0,0,0,9,8,0,0,False
+57328,71046,Francis Road,Francis Road,North Parade,Blacktown,Rooty Hill,2766.0,-33.7716369628906,150.836044311523,0,3,0,13,14,1,0,False
+57277,68225,Gipps Road,Gipps Road,Long Street,Fairfield,Smithfield,2164.0,-33.8419532775879,150.926940917969,0,0,0,4,32,1,0,False
+56908,36188,River Road,River Road,Menai Road,Sutherland,Woronora,2232.0,-34.019458770752,151.049346923828,1,0,0,4,15,6,1,False
+56758,23055,General Holmes Drive,General Holmes Drive,Rowley Street,Rockdale,Brighton-Le-Sands,2216.0,-33.954906463623,151.158676147461,0,0,0,17,0,2,2,False
+56821,28009,Centenary Drive,Centenary Drive,Hume Highway,Strathfield,Strathfield,2135.0,-33.8840827941895,151.069564819336,4,1,0,7,44,1,4,False
+57113,53053,Eastern Arterial Road,Eastern Arterial Road,Nicholson Avenue,Ku-Ring-Gai,St Ives,2075.0,-33.75,151.173416137695,1,0,3,2,9,0,5,False
+15286006,7149,Newbridge Road,Newbridge Road,Henry Lawson Drive,Bankstown,Milperra,2214.0,-33.9294929504395,150.980163574219,2,0,0,4,2,0,3,False

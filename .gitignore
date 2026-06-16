@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific data and notebook artifacts
+cache/
+*.zip
+*.osm.pbf
+data/osm/*.osm.pbf
+.ipynb_checkpoints/
